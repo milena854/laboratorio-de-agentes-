@@ -1,0 +1,6 @@
+{
+  "name": "Laboratório de Agentes de IA",
+  "description": "Laboratório interativo para análise, teste e refinamento de agentes de IA: ajuste de prompts, temperatura, top-p e diagnóstico de alucinações e qualidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
